@@ -1,0 +1,9 @@
+.item {
+  color: rgb(65, 0, 0);
+}
+
+.item img {
+  width: 40px;
+  aspect-ratio: 1;
+  border-radius: 30px;
+}/*# sourceMappingURL=MyPost.module.css.map */
